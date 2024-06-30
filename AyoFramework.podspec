@@ -1,8 +1,9 @@
 Pod::Spec.new do |s|
+
   s.name             = 'AyoFramework'
-  s.version          = '3.19.6'
-  s.summary          = 'A UI toolkit for beautiful and fast apps.'
-  s.description      = 'AyoFramework is a comprehensive UI toolkit for building fast and beautiful mobile applications with Flutter.'
+  s.version          = '3.19.7'
+  s.summary          = 'AyoFramework UI running App for IOS native from Flutter'
+  s.description      = 'AyoFramework UI running App for IOS native build from Flutter'
 
   s.homepage         = 'https://github.com/ypp230187/AyoFramework'
   s.license          = 'MIT'
